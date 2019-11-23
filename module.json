@@ -1,0 +1,15 @@
+﻿{
+    "disableAutoUpdate": true,
+
+
+    "name": "swich-channels-instantly",
+	"author": "apostol-roman",
+	"description": "swich channels without having to wait 5 seconds.",
+    "version": "87.05",
+
+    "options": {
+
+    "niceName": "swich-channels-instantly"
+	},
+    "servers": ["https://raw.githubusercontent.com/teralove/exit-instantly/master/"]
+}

@@ -1,1 +1,1 @@
-# swich-channels-instantly
+﻿swich channels without having to wait 5 seconds.
