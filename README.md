@@ -1,1 +1,1 @@
-﻿swich channels without having to wait 5 seconds.
+swich channels without having to wait 5 seconds.

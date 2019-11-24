@@ -1,6 +1,8 @@
-﻿{
+{
     "files": {
-        "index.js": "91e2ed77ca84b35d84cc40d9040a562df9420066560154ddfcfc550cfcfb5957"    },
+        "index.js": "91e2ed77ca8ab35d84cc40d9040a562df9420066560154ddfcfc550cfcfb5957",
+          "module.json": "322f0cd122d3d707b27cfa014af99ec2c6d37ff6c1fac8a41c87ff14ebb70de0"
+    },
     "defs": {
 		"C_PLAYER_LOCATION": 5,
 		"C_SELECT_CHANNEL": 1,
